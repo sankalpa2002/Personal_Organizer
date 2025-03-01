@@ -1,4 +1,6 @@
 I did this project for academic purpose in my university by using QT Creator.but it asks for real world requrements.i mention that requrements below.
+
+
 # Personal Organizer
 
 # Key Features:
